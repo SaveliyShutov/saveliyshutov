@@ -7,7 +7,8 @@ Working on
 
 Learning 
 
-Languages and Tools
+###Languages and Tools
+![Vue](https://img.shields.io/badge/-<Vue>-<#42D392>)
 
 Follow me
 
