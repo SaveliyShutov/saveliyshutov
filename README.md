@@ -1,7 +1,5 @@
 [![Header](https://github.com/SaveliyShutov/saveliyshutov/blob/master/assets/Frame%201.png)](https://github.com/SaveliyShutov/saveliyshutov)
 
-# I'm beginner Software Engeneer
-
 ### Languages and Tools
 
 ![Vue](https://img.shields.io/badge/-Vue-white?style=for-the-badge&logo=vuedotjs)
